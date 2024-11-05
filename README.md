@@ -1,4 +1,4 @@
-# Deep-learning
+# Deep-learning - Dog Breed Identification
 ![image](https://github.com/user-attachments/assets/02bf6ec8-5d2e-4eaf-92dd-c1e900824968)
 ![image](https://github.com/user-attachments/assets/a4cfd13e-db7f-4d08-a814-9b1318bf57a0)
 
